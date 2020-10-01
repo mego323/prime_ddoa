@@ -1,9 +1,10 @@
 # prime_ddos
-coded in python2
+coded in python3
 
-I code for fun 
+I code for fun(use for educational purposes only)
 
 how to run:
+
 
 pkg install python3 -y
 
